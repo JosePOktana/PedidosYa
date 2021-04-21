@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Suite1">
+    <!--suite > test > class > methods-->
+    <!--before and after suite runs once-->
+    <!--before and after test runs once-->
+    <!--before and after class runs once-->
+    <!--before and after method runs for each test case-->
+    <test name = "PedidosYa">
+        <classes>
+            <class name = "PedidosYa"/>
+        </classes>
+    </test>
+</suite>
